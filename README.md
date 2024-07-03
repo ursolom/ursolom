@@ -8,11 +8,13 @@ I am a Full Stack Developer specialized in the MERN stack. I love creating dynam
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" alt="HTML" title="HTML" style="width: 50px; margin: 10px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS" title="CSS" style="width: 50px; margin: 10px;">
   <img src="https://static.vecteezy.com/system/resources/previews/027/127/463/original/javascript-logo-javascript-icon-transparent-free-png.png" alt="JavaScript" title="JavaScript" style="width: 50px; margin: 10px;">
+  
   <img src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" alt="Tailwind CSS" title="Tailwind CSS" style="width: 50px; margin: 10px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" alt="Bootstrap" title="Bootstrap" style="width: 50px; margin: 10px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React" title="React" style="width: 50px; margin: 10px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" alt="Laravel" title="Laravel" style="width: 50px; margin: 10px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/2560px-Webysther_20160423_-_Elephpant.svg.png" alt="PHP" title="PHP" style="width: 50px; margin: 10px;">
+  
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="TypeScript" title="TypeScript" style="width: 50px; margin: 10px;">
   <img src="https://swiperjs.com/images/swiper-logo.svg" alt="Swiper" title="Swiper" style="width: 50px; margin: 10px;">
   <img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" alt="GSAP" title="GSAP" style="width: 50px; margin: 10px;">
