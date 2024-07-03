@@ -1,10 +1,10 @@
-# Hi there 👋, I'm Suleiman Ramadan
+# Hi there 👋, I'm Soliman Ramadan
 
 ## About Me
 I am a Full Stack Developer specialized in the MERN stack. I love creating dynamic and responsive web applications. My passion lies in coding and continuous learning to keep up with the latest trends in web development.
 
 ## Skills
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; justify-items: center; align-items: center;">
+<div style="display: flex; flex-wrap: wrap; gap: 30px; justify-content: center; align-items: center;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" alt="HTML" title="HTML" style="width: 50px; margin: 10px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS" title="CSS" style="width: 50px; margin: 10px;">
   <img src="https://static.vecteezy.com/system/resources/previews/027/127/463/original/javascript-logo-javascript-icon-transparent-free-png.png" alt="JavaScript" title="JavaScript" style="width: 50px; margin: 10px;">
