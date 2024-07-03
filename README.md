@@ -4,7 +4,7 @@
 I am a Full Stack Developer specialized in the MERN stack. I love creating dynamic and responsive web applications. My passion lies in coding and continuous learning to keep up with the latest trends in web development.
 
 ## Skills
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; justify-items: center; align-items: center;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" alt="HTML" title="HTML" style="width: 50px; margin: 10px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS" title="CSS" style="width: 50px; margin: 10px;">
   <img src="https://static.vecteezy.com/system/resources/previews/027/127/463/original/javascript-logo-javascript-icon-transparent-free-png.png" alt="JavaScript" title="JavaScript" style="width: 50px; margin: 10px;">
@@ -22,8 +22,10 @@ I am a Full Stack Developer specialized in the MERN stack. I love creating dynam
 </div>
 
 ## How to reach me
-[![Facebook](https://images.vexels.com/media/users/3/140168/isolated/preview/7ddc26f9e729cd633ae3dd4c692a04db-facebook-distorted-round-icon.png)](https://www.facebook.com/sliman.ramadan.73)
+<a href="https://www.facebook.com/sliman.ramadan.73">
+  <img src="https://images.vexels.com/media/users/3/140168/isolated/preview/7ddc26f9e729cd633ae3dd4c692a04db-facebook-distorted-round-icon.png" alt="Facebook" title="Facebook" style="width: 100px; margin: 10px;">
+</a>
 
----
+---------
 
 ⚡ Fun fact: I love coding and continuously learning new technologies to enhance my skills!
