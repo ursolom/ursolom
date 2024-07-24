@@ -1,10 +1,10 @@
 # Hi there 👋, I'm Soliman Ramadan
 
-<p align="left"> <img src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="soft-9" /> </p>
+
 
 ## About Me
 I am a Full Stack Developer specialized in the MERN stack. I love creating dynamic and responsive web applications. My passion lies in coding and continuous learning to keep up with the latest trends in web development.
-
+<h3><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=300&lines=I'm+Full+Stack+Developer;"/></h3>
 
 
 
@@ -207,7 +207,7 @@ I am a Full Stack Developer specialized in the MERN stack. I love creating dynam
 
 ## How to reach me
 <a href="https://www.facebook.com/sliman.ramadan.73">
-  <img src="https://images.vexels.com/media/users/3/140168/isolated/preview/7ddc26f9e729cd633ae3dd4c692a04db-facebook-distorted-round-icon.png" alt="Facebook" title="Facebook" style="width: 100px; margin: 10px;">
+  <img src="https://images.vexels.com/media/users/3/140168/isolated/preview/7ddc26f9e729cd633ae3dd4c692a04db-facebook-distorted-round-icon.png" alt="Facebook" title="Facebook" style="width: 70px; margin: 10px;">
 </a>
 
 ---------
