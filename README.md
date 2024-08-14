@@ -1,208 +1,50 @@
-# Hi there 👋, I'm Soliman Ramadan
-
-
-
 ## About Me
 I am a Full Stack Developer specialized in the MERN stack. I love creating dynamic and responsive web applications. My passion lies in coding and continuous learning to keep up with the latest trends in web development.
+
 <h3><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=300&lines=I'm+Full+Stack+Developer;"/></h3>
 
-
-
 ## Skills
-<p align="left">
-    <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-    rel="noreferrer"
->
-    <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-        alt="javascript"
-        width="40"
-        height="40"
-    />
-</a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-        alt="typescript"
-        width="40"
-        height="40"
-    />
-</a>
-<a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
-        alt="redux"
-        width="40"
-        height="40"
-    />
-</a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-            alt="react"
-            width="40"
-            height="40"
-        />
-    </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-            alt="nodejs"
-            width="40"
-            height="40"
-        />
-    </a>
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-            alt="express"
-            width="40"
-            height="40"
-        />
-    </a>
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-        <img
-            src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
-            alt="nextjs"
-            width="40"
-            height="40"
-        />
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-            alt="mongodb"
-            width="40"
-            height="40"
-        />
-    </a>
-    <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-        <img
-            src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png"
-            alt="laravel"
-            width="40"
-            height="40"
-        />
-    </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-            alt="mysql"
-            width="40"
-            height="40"
-        />
-    </a>
-    <a href="https://www.php.net" target="_blank" rel="noreferrer">
-        <img
-            src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/2560px-Webysther_20160423_-_Elephpant.svg.png"
-            alt="php"
-            width="40"
-            height="40"
-        />
-    </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-        <img
-            src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-            alt="tailwind"
-            width="40"
-            height="40"
-        />
-    </a>
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-        <img
-            src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png"
-            alt="bootstrap"
-            width="40"
-            height="40"
-        />
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-            alt="css3"
-            width="40"
-            height="40"
-        />
-    </a>
-    <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-            alt="sass"
-            width="40"
-            height="40"
-        />
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-            alt="html5"
-            width="40"
-            height="40"
-        />
-    </a>
-    <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-        <img
-            src="https://download.blender.org/branding/community/blender_community_badge_white.svg"
-            alt="blender"
-            width="40"
-            height="40"
-        />
-    </a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-        <img
-            src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-            alt="figma"
-            width="40"
-            height="40"
-        />
-    </a>
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-        <img
-            src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-            alt="firebase"
-            width="40"
-            height="40"
-        />
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img
-            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-            alt="git"
-            width="40"
-            height="40"
-        />
-    </a>
-    <a
-        href="https://www.adobe.com/in/products/illustrator.html"
-        target="_blank"
-        rel="noreferrer"
-    >
-        <img
-            src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"
-            alt="illustrator"
-            width="40"
-            height="40"
-        />
-    </a>
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
-            alt="photoshop"
-            width="40"
-            height="40"
-        />
-    </a>
-    <a href="https://postman.com" target="_blank" rel="noreferrer">
-        <img
-            src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-            alt="postman"
-            width="40"
-            height="40"
-        />
-    </a>
-</p>
+
+<details open>
+<summary><b>🏄‍♂️ Frontend</b></summary>
+<br>
+  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)&nbsp;
+![Tailwindcss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
+![React js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)&nbsp;
+![Next js](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![Framer Motion](https://img.shields.io/badge/Framer-005A8F?style=for-the-badge&logo=framer&logoColor=white)&nbsp;
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)&nbsp;
+</details>
+
+<details open>
+<summary><b>⚙️ Backend</b></summary>
+<br>
+    
+![laravel](https://img.shields.io/badge/Laravel-E0234E?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+![Node js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
+![Express js](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)&nbsp;
+</details>
+
+<details open>
+<summary><b>💻 Software and Tools</b></summary>
+<br>
+![blender](https://img.shields.io/badge/-blender-black?style=for-the-badge&logo=blender)&nbsp;
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)&nbsp;
+![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)&nbsp;
+</details>
 
 ---------
 
