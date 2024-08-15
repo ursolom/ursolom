@@ -6,12 +6,12 @@ I am a Full Stack Developer specialized in the MERN stack. I love creating dynam
 ## Skills
 
 <details open>
-<summary><b>🏄‍♂️ Frontend</b></summary>
+<summary><b>Frontend</b></summary>
 <br>
   
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)&nbsp;
 ![Tailwindcss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
@@ -24,7 +24,7 @@ I am a Full Stack Developer specialized in the MERN stack. I love creating dynam
 </details>
 
 <details open>
-<summary><b>⚙️ Backend</b></summary>
+<summary><b> Backend</b></summary>
 <br>
     
 ![laravel](https://img.shields.io/badge/Laravel-E0234E?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;
@@ -36,8 +36,9 @@ I am a Full Stack Developer specialized in the MERN stack. I love creating dynam
 </details>
 
 <details open>
-<summary><b>💻 Software and Tools</b></summary>
+<summary><b> Software and Tools</b></summary>
 <br>
+  
 ![blender](https://img.shields.io/badge/-blender-black?style=for-the-badge&logo=blender)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)&nbsp;
