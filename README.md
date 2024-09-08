@@ -1,7 +1,7 @@
 ## About Me
 I am a Full Stack Developer specialized in the MERN stack. I love creating dynamic and responsive web applications. My passion lies in coding and continuous learning to keep up with the latest trends in web development.
 
-<h3><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=300&lines=I'm+Full+Stack+Developer;"/></h3>
+<h3><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=300&lines=I'm+Soliman+Ramadan;"/></h3>
 
 ## Skills
 
