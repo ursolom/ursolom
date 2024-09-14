@@ -52,3 +52,5 @@ I am a Full Stack Developer specialized in the MERN stack. I love creating dynam
 ⚡ Fun fact: I love coding and continuously learning new technologies to enhance my skills!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soft-9&label=Profile%20views&color=0e75b6&style=flat" alt="soft-9" /> </p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soft-9&layout=compact&theme=radical" alt="soft-9" height="165">
+</p>
