@@ -51,6 +51,5 @@ I am a Full Stack Developer specialized in the MERN stack. I love creating dynam
 
 ⚡ Fun fact: I love coding and continuously learning new technologies to enhance my skills!
 
-<a href="https://ursolom.vercel.app/" align="left"> <img src="https://komarev.com/ghpvc/?username=soft-9&label=Profile%20views&color=0e75b6&style=flat" alt="soft-9" /> </a>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ursolom&layout=compact&theme=radical" alt="ursolom" height="165">
-</p>
+- 🔍 Take a look at my projects on [**my portfolio**](https://ursolom.vercel.app)!.
+
