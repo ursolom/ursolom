@@ -52,6 +52,5 @@ I am a Full Stack Developer specialized in the MERN stack. I love creating dynam
 ⚡ Fun fact: I love coding and continuously learning new technologies to enhance my skills!
 
 - 🔍 Take a look at my projects on [**my portfolio**](https://ursolom.vercel.app)!.
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ursolom&show_icons=true&locale=en&layout=compact" alt="xravoz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ursolom&" alt="soliman" /></p>
